@@ -1,3 +1,8 @@
+
+📖 Error Handling in Express: https://expressjs.com/en/guide/error-handling.html
+📖 Promise.resolve(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve
+
+
 In order to set up the project locally:
 
 1) Clone or fork and clone
